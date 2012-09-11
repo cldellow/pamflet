@@ -7,4 +7,5 @@ object PamfletDiscounter
   extends Discounter 
   with FencedDiscounter
   with SmartyDiscounter
+  with DotDiscounter
   with IdentifiedHeaders
